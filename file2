@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Five Popular DevOps Tools:"
+echo "1. Docker"
+echo "2. Kubernetes"
+echo "3. Jenkins"
+echo "4. Ansible"
+echo "5. Terraform"
+
